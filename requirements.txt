@@ -3,4 +3,4 @@ numpy
 scikit-learn
 streamlit
 openpyxl
-altair
+altair==5.2.0
